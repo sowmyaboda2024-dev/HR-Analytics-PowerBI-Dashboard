@@ -1,4 +1,5 @@
 HR Analytics Dashboard - Power BI
+
 Project Overview
 This project analyses employee attrition patterns and workforce demographics using Power BI.
 The dashboard helps HR teams identify key factors driving employee turnover and provides actionable insights to improve retention strategies.
@@ -15,6 +16,7 @@ Source:
 IBM HR Analytics Employee Attrition Dataset (Kaggle)
 
 Dashboard Pages
+
 Executive Overview
 	• Total Employees 
 	• Attrition Count 
@@ -23,6 +25,7 @@ Executive Overview
 	• Attrition by Department 
 	• Attrition by Gender 
 	• Attrition by Overtime 
+
 Attrition Driver Analysis
 	• Salary Band Analysis 
 	• Business Travel Analysis 
@@ -30,6 +33,7 @@ Attrition Driver Analysis
 	• Education Field Analysis 
 	• Marital Status Analysis 
 	• Job Level Analysis 
+
 Employee Deep Dive
 	• Employee-level exploration 
 	• Department analysis 
